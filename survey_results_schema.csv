@@ -1,0 +1,19 @@
+qid,qname,question,force_resp,type,selector
+,,,,,
+QID2,MainBranch,"Which of the following options best describes you today? Here, by ""developer"" we mean ""someone who writes code."" <b>*</b>",TRUE,MC,SAVR
+QID296,Employment,Which of the following best describes your current employment status?,FALSE,MC,MAVR
+QID297,CodingActivities,Which of the following best describes the code you write outside of work? Select all that apply.,FALSE,MC,MAVR
+QID25,EdLevel,Which of the following best describes the highest level of formal education that you’ve completed? *,FALSE,MC,SAVR
+QID276,LearnCode,How did you learn to code? Select all that apply.,FALSE,MC,MAVR
+QID281,LearnCodeOnline,What online resources do you use to learn to code? Select all that apply.,FALSE,MC,MAVR
+QID306,LearnCodeCoursesCert,What online courses or certifications do you use to learn to code? Select all that apply.,FALSE,MC,MAVR
+QID32,YearsCode,"Including any education, how many years have you been coding in total?",FALSE,MC,DL
+QID34,YearsCodePro,"NOT including education, how many years have you coded professionally (as a part of your work)?",FALSE,MC,DL
+QID31,DevType,Which of the following describes your current job? Please select all that apply.,FALSE,MC,MAVR
+QID6,Country,"Where do you live? <span style=""font-weight: bolder;"">*</span>",TRUE,MC,DL
+QID50,Currency,"Which currency do you use day-to-day? If your answer is complicated, please pick the one you're most comfortable estimating in. *",TRUE,MC,DL
+QID51,CompTotal,"What is your current total compensation (salary, bonuses, and perks, before taxes and deductions)? Please enter a whole number in the box below, without any punctuation.  If you are paid hourly, please estimate an equivalent weekly, monthly, or yearly salary. If you prefer not to answer, please leave the box empty.",FALSE,TE,SL
+QID52,CompFreq,"Is that compensation weekly, monthly, or yearly?",FALSE,MC,MAVR
+QID233,Language,"Which <b>programming, scripting, and markup languages</b> have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the language and want to continue to do so, please check both boxes in that row.)",FALSE,Matrix,Likert
+QID127,Age,What is your age?,FALSE,MC,MAVR
+QID122,Gender,"Which of the following describe you, if any? Please check all that apply.",FALSE,MC,MAVR
